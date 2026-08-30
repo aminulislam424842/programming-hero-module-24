@@ -116,7 +116,7 @@ programming-hero-module-24/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/aminulislam424842/programming-hero-module-24.git
 ```
 
 ### 2. Navigate to the Project
